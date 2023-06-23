@@ -12,7 +12,7 @@
   <div>
     <label>Without the proxy</label>
     <input
-      ref="fileInput"
+      ref="fileInput2"
       class="d-none"
       type="file"
       multiple
