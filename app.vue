@@ -19,6 +19,9 @@
       @change="onFileChangeNoProxy"
     />
   </div>
+  <NuxtLink to="/dummy-sample.pdf" external="true"
+    >go to /dummy-sample.pdf</NuxtLink
+  >
 </template>
 <script lang="ts" setup>
 console.log('test4 ');
